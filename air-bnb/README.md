@@ -223,7 +223,7 @@ All charts are saved to `outputs/`.
 
 This project is part of a growing portfolio I'm building as I transition into data at 33.
 I started with PostgreSQL through a hands-on practice project called
-[OOSHDB](https://github.com/masudrana) — a simulated food retail database where I learned
+[OOSHDB](https://github.com/kpmasud/ooshdb-vivanti-project) — a simulated food retail database where I learned
 schema design, ERD modelling, bulk data injection (1M+ rows), and connecting to BI tools like Qlik Sense.
 
 From there I moved to working with real public datasets to practice the full pipeline:
